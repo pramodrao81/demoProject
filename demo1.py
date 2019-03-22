@@ -1,3 +1,2 @@
-print("First File updated")
-print("new version")
+print("First File")
 
